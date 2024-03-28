@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/idAction"
+        android:title="Activities"
+        app:showAsAction="never" />
+    <item android:id="@+id/idMaps"
+        android:title="Maps"
+        app:showAsAction="never" />
+    <item android:id="@+id/idEditProfile"
+        android:title="Edit Profile"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/idLogout"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>

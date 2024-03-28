@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KarmoutIsmail_projet</string>
+    <string name="str_bnj">Hello</string>
+    <string name="str_env">Send</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_action">ActivitiesActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="activity_on_foot">On Foot</string>
+    <string name="activity_running">Running</string>
+    <string name="activity_still">Still</string>
+    <string name="activity_tilting">Tilting</string>
+    <string name="activity_walking">walking</string>
+    <string name="activity_unknown">Unknown</string>
+
+</resources>
